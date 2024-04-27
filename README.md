@@ -22,4 +22,4 @@ Create a .gitignore file and include "node_modules", ".vscode", "package-lock.js
 
 Make sure that your repo includes a package.json with the required dependencies. You can create one by running "npm init" when you first set up the project, before installing any dependencies.
 
-Required packages: Express.js, Mongoose
+Required packages: Express.js, Mongoose, moment.js
